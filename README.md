@@ -1,6 +1,6 @@
 # NumPlay_solver
 
-## Function
+## Purpose
 Solve NumPlay problems.
 
 ## Method
